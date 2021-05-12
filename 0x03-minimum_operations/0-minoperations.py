@@ -24,3 +24,4 @@ def minOperations(n):
             aux = 1
         aux += 1
     return optn
+    
