@@ -37,5 +37,6 @@ def fizzbuzz():
         else:
             print(i, end=" ")
 
-# Llamado a la funcion
-fizzbuzz()
+
+if __name__ == "__main__":
+    fizzbuzz()
