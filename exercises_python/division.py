@@ -12,7 +12,7 @@
 '''
 
 
-def division(dividendo,divisor):
+def division(dividendo, divisor):
     '''Funcion que recibe como parametro dos numeros enteros y retorna la
     division de ambos numeros.
     '''
@@ -20,7 +20,7 @@ def division(dividendo,divisor):
 
 
 def printDivision():
-    '''Funcion que llama a la funcion division para imprimir por pantalla el 
+    '''Funcion que llama a la funcion division para imprimir por pantalla el
     resultado.
     '''
     global dividendo
@@ -31,7 +31,7 @@ def printDivision():
 
     cociente = int(division(dividendo, divisor))
     print("El cociente es de:", cociente)
-        
+
 
 if __name__ == "__main__":
     # Declaracion e inicializacion de variables

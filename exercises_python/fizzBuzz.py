@@ -20,9 +20,10 @@
     Fin
 
 '''
-# Funcion que imprime los números del 1 al 100
+
+
 def fizzbuzz():
-    '''
+    '''#Funcion que imprime los números del 1 al 100
         Multiplos de 3 imprime "Fizz"
         Multiplos de 5 imprime "Buzz"
         Multiplos de ambos imprime "FizzBuzz"
