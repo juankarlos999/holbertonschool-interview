@@ -17,6 +17,7 @@ def numeroPerfecto(num):
         print(f"suma de divisores = {suma}")
         return False
 
+
 if __name__ == "__main__":
 	numInputs = int(input("Introduzca la cantidad de numeros a validar: "))
 	i = 1
