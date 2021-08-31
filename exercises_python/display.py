@@ -34,7 +34,7 @@ def display():
         num = input("Ingrese un numero: ")
         print()
 
-        if num == "":
+        if not num : #cadena vacia
             raise TypeError
         elif not num.isdigit():
             raise ValueError
