@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cajicá",
+               "short_name" : "Cajicá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cajicá",
+               "short_name" : "Cajicá",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cundinamarca",
+               "short_name" : "Cundinamarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cajicá, Cundinamarca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.9413708,
+                  "lng" : -74.01230579999999
+               },
+               "southwest" : {
+                  "lat" : 4.9001717,
+                  "lng" : -74.03708739999999
+               }
+            },
+            "location" : {
+               "lat" : 4.9187217,
+               "lng" : -74.02255699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.9413708,
+                  "lng" : -74.01230579999999
+               },
+               "southwest" : {
+                  "lat" : 4.9001717,
+                  "lng" : -74.03708739999999
+               }
+            }
+         },
+         "place_id" : "ChIJU8PYEmN3QI4RVDT96tcsizA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeocodeResponse>
+ <status>OK</status>
+ <result>
+  <type>locality</type>
+  <type>political</type>
+  <formatted_address>Bogotá, Bogota, Colombia</formatted_address>
+  <address_component>
+   <long_name>Bogotá</long_name>
+   <short_name>Bogotá</short_name>
+   <type>locality</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Bogota</long_name>
+   <short_name>Bogota</short_name>
+   <type>administrative_area_level_1</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Colombia</long_name>
+   <short_name>CO</short_name>
+   <type>country</type>
+   <type>political</type>
+  </address_component>
+  <geometry>
+   <location>
+    <lat>4.7109886</lat>
+    <lng>-74.0720920</lng>
+   </location>
+   <location_type>APPROXIMATE</location_type>
+   <viewport>
+    <southwest>
+     <lat>4.4594640</lat>
+     <lng>-74.2236370</lng>
+    </southwest>
+    <northeast>
+     <lat>4.8371311</lat>
+     <lng>-73.9919770</lng>
+    </northeast>
+   </viewport>
+   <bounds>
+    <southwest>
+     <lat>4.4594640</lat>
+     <lng>-74.2236370</lng>
+    </southwest>
+    <northeast>
+     <lat>4.8371311</lat>
+     <lng>-73.9919770</lng>
+    </northeast>
+   </bounds>
+  </geometry>
+  <place_id>ChIJKcumLf2bP44RFDmjIFVjnSM</place_id>
+ </result>
+</GeocodeResponse>
